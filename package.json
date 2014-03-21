@@ -2,7 +2,7 @@
   "name": "fizzBuzzGen",
   "version": "0.0.1",
   "description": "The most idiotic use of ES6 generators ever",
-  "main": "index.js",
+  "main": "fizzbuzzgen.js",
   "dependencies": {
     "underscore": "~1.6.0"
   },
