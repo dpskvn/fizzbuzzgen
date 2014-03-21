@@ -1,0 +1,20 @@
+{
+  "name": "fizzBuzzGen",
+  "version": "0.0.1",
+  "description": "The most idiotic use of ES6 generators ever",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "~1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fizzbuzz",
+    "generator",
+    "es6"
+  ],
+  "author": "Dino Paskvan",
+  "license": "MIT"
+}
