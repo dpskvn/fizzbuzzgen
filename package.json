@@ -16,5 +16,13 @@
     "es6"
   ],
   "author": "Dino Paskvan",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dpskvn/fizzbuzzgen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dpskvn/fizzbuzzgen/issues"
+  },
+  "homepage": "https://github.com/dpskvn/fizzbuzzgen"
 }
